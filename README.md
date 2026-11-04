@@ -1,23 +1,6 @@
 # Escola_MVC
 
 API REST de gestão escolar desenvolvida com **Spring Boot** seguindo o padrão **MVC** em camadas (Controller → Service → Repository → Entity). O projeto cadastra e lista **Professores** e **Salas** em um banco **MySQL**, e os endpoints foram testados com o **Postman** (métodos `GET` e `POST`).
-
-> Projeto acadêmico — SENAI / SEDUC.
-
----
-
-## Tecnologias
-
-| Tecnologia | Versão / Detalhe |
-|---|---|
-| Java | 25 |
-| Spring Boot | 4.1.2 |
-| Spring Web MVC | `spring-boot-starter-webmvc` |
-| Spring Data JPA | `spring-boot-starter-data-jpa` (Hibernate) |
-| Banco de dados | MySQL (`mysql-connector-j`) |
-| Gerenciador de dependências | Maven (wrapper incluso: `mvnw` / `mvnw.cmd`) |
-| Testes de API | Postman |
-
 ---
 
 ## Estrutura do projeto
