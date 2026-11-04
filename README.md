@@ -99,12 +99,6 @@ Base URL: `http://localhost:8080`
 
 ## Como executar
 
-### Pré-requisitos
-
-- JDK 25
-- MySQL em execução na porta `3306`
-- Postman (ou outro cliente HTTP) para testar
-
 ### 1. Clonar o repositório
 
 ```bash
